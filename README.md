@@ -7,7 +7,6 @@
 brew tap leeseomin/repox
 
 brew install repox
-
 ```
 
 
