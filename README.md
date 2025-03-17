@@ -18,14 +18,14 @@ sudo xattr -d com.apple.quarantine /opt/homebrew/bin/repox
 
 
 
-## 📚 Basic Usage
+## ✅ Basic Usage
 
 ### Standard Extraction
 
 ```bash
 repox repo_url
 ```
-The default command extracts core architecture files using balanced settings. It applies smart filtering to identify the most important files in the repository, excluding common non-essential files like tests, documentation, and dependencies.
+Recommended Default Command: Extracts core architecture files with balanced settings, applying smart filtering to identify the most important files in the repository.
 
 ### Custom Threshold Extraction
 
