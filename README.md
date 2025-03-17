@@ -1,7 +1,6 @@
-# homebrew-repox
+# RepoX : RepoX is a powerful utility for intelligently extracting core architecture files from GitHub repositories
 
-
-### install  repox
+### install  RepoX
 
 ```
 brew tap leeseomin/repox
