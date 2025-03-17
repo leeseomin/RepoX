@@ -18,7 +18,7 @@ sudo xattr -d com.apple.quarantine /opt/homebrew/bin/repox
 
 
 
-## ✅ Basic Usage
+## 🌱  Basic Usage
 
 ### Standard Extraction
 
