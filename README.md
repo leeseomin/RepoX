@@ -20,7 +20,7 @@ sudo xattr -d com.apple.quarantine /opt/homebrew/bin/repox
 <br>
 
 
-# ✨ Features
+### ✨ Features
 
 1. **File Importance Analysis**: Evaluates files with 0.0-1.0 scoring based on extensions, names, and paths
 
@@ -35,7 +35,7 @@ sudo xattr -d com.apple.quarantine /opt/homebrew/bin/repox
 
 <br> 
 
-## 🌱  Basic Usage
+### 🌱  Basic Usage
 
 ### Standard Extraction
 
