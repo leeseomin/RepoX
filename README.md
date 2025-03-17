@@ -29,6 +29,9 @@ repox repo_url
 ```
 Recommended Default Command: Extracts core architecture files with balanced settings, applying smart filtering to identify the most important files in the repository.
 
+<br>
+<br>
+
 ### Custom Threshold Extraction
 
 ```bash
