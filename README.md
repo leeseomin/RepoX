@@ -1,4 +1,6 @@
-# RepoX : RepoX is a powerful utility for intelligently extracting core architecture files from GitHub repositories
+# RepoX 
+
+#### RepoX is a powerful utility for intelligently extracting core architecture files from GitHub repositories
 
 ### install  RepoX
 
