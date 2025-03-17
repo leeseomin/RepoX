@@ -20,6 +20,21 @@ sudo xattr -d com.apple.quarantine /opt/homebrew/bin/repox
 <br>
 
 
+# ✨ Features
+
+1. **File Importance Analysis**: Evaluates files with 0.0-1.0 scoring based on extensions, names, and paths
+
+2. **Auto Project Detection**: Automatically identifies programming languages and project types
+
+3. **Parallel Processing**: Supports multiprocessing for efficient large repository handling
+
+4. **Detailed Reporting**: Generates markdown reports with statistics and directory structures
+
+5. **Flexible Configuration**: Provides various user settings including thresholds and file limits
+
+
+<br> 
+
 ## 🌱  Basic Usage
 
 ### Standard Extraction
