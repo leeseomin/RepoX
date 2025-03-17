@@ -6,7 +6,7 @@
 <br>
 <br>
 
-### install  RepoX
+### install  RepoX : (Homebrew) 
 
 ```
 brew tap leeseomin/repox
