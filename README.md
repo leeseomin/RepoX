@@ -38,3 +38,10 @@ This command increases the extraction threshold to 0.6 (default is 0.3), making 
 repox repo_url --flexible --threshold 0.9
 ```
 With an extremely high threshold of 0.9, only the absolute most essential files are extracted. This ultra-selective mode typically returns only entry points, main configuration files, and primary architecture components. Ideal for getting a minimal but crucial overview of complex repositories.
+
+
+### ⚙️ Configuration Options
+
+`repox` offers a variety of configuration options to fine-tune the extraction process. See the `--help` output for more details.
+
+
