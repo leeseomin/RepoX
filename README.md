@@ -12,6 +12,8 @@
 brew tap leeseomin/repox
 
 brew install repox
+
+sudo xattr -d com.apple.quarantine /opt/homebrew/bin/repox
 ```
 
 
